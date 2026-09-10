@@ -10,3 +10,4 @@ We used CNN and pretrained model like ResNet50. ResNet50 is based on resdual net
 We had 90.64% accuracy for
 CNN
 
+https://rahuldkjain.github.io/gh-profile-readme-generator/
